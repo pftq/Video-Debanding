@@ -13,3 +13,9 @@ You may also find these useful (one-click to download all [here](https://drive.g
 The functionality is primarily from FFMPEG, which this sits on top of as a UI you can drag/drop videos onto.
 
 <img width="1320" height="440" alt="image" src="https://github.com/user-attachments/assets/afb8ef4e-0151-49a0-b24c-2867067412e5" />
+
+Credits:
+- Python, application runtime
+- Tcl/Tk, user interface
+- FFmpeg, video decoding, debanding, and encoding
+- PyInstaller, Windows executable packaging
