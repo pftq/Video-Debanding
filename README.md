@@ -7,7 +7,8 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)\
 • [Video Frame Sync](https://github.com/pftq/Video-Frame-Sync) (syncing 2 files that drift out of sync)\
 • [Video Color Match](https://github.com/pftq/VideoColorMatch) (correcting color grading drift)\
-• [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)
+• [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)\
+• [Video Splicer](https://github.com/pftq/Video-Splicer) (trim or join MP4s without re-encoding)
 
 The functionality is primarily from FFMPEG, which this sits on top of as a UI you can drag/drop videos onto.
 
