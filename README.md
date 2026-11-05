@@ -8,6 +8,7 @@ You may also find these useful:
 - MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
 - Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
+- Screencaps Generator (smart screencaps selection + gallery grid sheet) https://github.com/pftq/Screencaps-Generator
 
 The functionality is primarily from FFMPEG, which this sits on top of as a UI you can drag/drop videos onto.
 
