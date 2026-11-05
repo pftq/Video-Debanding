@@ -2,6 +2,7 @@
 Quick script for debanding or fixing artificial bands / stepping artifacts in video where it should be smooth gradients (lighting, shadows).
 
 Download: https://github.com/pftq/Video-Debanding/releases/tag/20261102
+
 You may also find these useful:
 - Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
